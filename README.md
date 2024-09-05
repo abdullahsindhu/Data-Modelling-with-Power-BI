@@ -43,9 +43,9 @@ The primary goal of these projects is to apply Power BI skills in solving practi
 Each folder contains a specific project with the following structure:
 
 - .pbix File: Power BI report file for the project.
-- Documentation: An overview of the project, including the problem statement, approach, and key insights.
-- Screenshots/Visualizations: Visuals and screenshots of key reports and dashboards.
-Feel free to explore the case studies to see how Power BI techniques can be applied to real-world business challenges.
+- README.md: An overview of the project, including the problem statement, approach, and key insights.
+- Dataset: The dataset provided for the project.
+Feel free to explore the case studies to see how Power BI techniques can be applied to real-world business challenges.Each folder contains a specific project with the following structure:
 
 ## Conclusion
 These projects showcase my journey in mastering Power BI, from fundamental data analysis to creating advanced business intelligence solutions. They reflect both the learning from the course and the practical application of those skills in solving data problems.
