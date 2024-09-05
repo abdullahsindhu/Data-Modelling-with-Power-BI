@@ -42,8 +42,8 @@ The primary goal of these projects is to apply Power BI skills in solving practi
 ## How to Use This Repository
 Each folder contains a specific project with the following structure:
 
-- .pbix File: Power BI report file for the project.
 - README.md: An overview of the project, including the problem statement, approach, and key insights.
+- .pbix File: Power BI report file for the project.
 - Dataset: The dataset provided for the project.
 Feel free to explore the case studies to see how Power BI techniques can be applied to real-world business challenges.Each folder contains a specific project with the following structure:
 
